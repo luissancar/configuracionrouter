@@ -31,3 +31,5 @@ Por defecto, los Routers son dispositivos DTE, pero se los puede configurar de m
     - exit
     - exit
     - show ip protocols
+
+
